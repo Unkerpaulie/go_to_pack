@@ -1,2 +1,3 @@
-# go_to_pack
-A simple card came (text based) built in python
+# ITEC 244
+Internet Technology
+PHP and MySQL web interactivity for BSc Internet Technology, COSTAATT
